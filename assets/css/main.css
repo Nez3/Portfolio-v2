@@ -1311,6 +1311,8 @@ input, select, textarea {
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
 		overflow-y: scroll;
+		background: rgb(2,0,38);
+		background: linear-gradient(144deg, rgba(2,0,38,1) 0%, rgba(7,7,79,1) 26%, rgba(2,23,92,1) 37%, rgba(31,81,138,1) 74%, rgba(2,152,184,1) 100%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
